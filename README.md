@@ -21,13 +21,16 @@ If datasets are too large, provide external download links.
 
 # Direct Google Drive links (converted to 'uc?id=' format)
 hist_url = "https://drive.google.com/uc?id=1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs"
+
 fear_url = "https://drive.google.com/uc?id=1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf"
 
 
 
 # Installation
-git clone https://github.com/your-username/crypto-market-analysis-and-prediction.git
+git clone https://github.com/your-username/Crypto-Marketing-Analysis-And-Prediction.git
+
 cd crypto-market-analysis-and-prediction
+
 pip install -r requirements.txt
 
 # Usage
